@@ -29,6 +29,9 @@ Programming Language: c#
 15. ---3) Create a MemoryStream object from imagesBytes
 16. ---4) Use the Image class's static FromStream method to create an image from the MemoryStream object and assign the image to the PictureBox's image property to display the selected photo //end 
 
+#links
+http://web.csulb.edu/~pnguyen/cecs475/pdf/cshtp5_28.pdf
+https://msdn.microsoft.com/en-us/library/hh191443.aspx
 
 
 
