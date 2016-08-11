@@ -9,7 +9,7 @@ IDE: Visual Studio
 Framwork: .NET
 Programming Language: c#
 
-#Steps (Flow)
+#Steps (Control Flow)
 1. Create an WebClient object flickrClient to invoke the online web service
 2. Initialize a Task<String> object flickrTask to null(query the web service)
 3. Windows Form constructor
